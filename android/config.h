@@ -34,7 +34,7 @@
 #define HAVE_MEMORY_H 1
 
 /* define if you have malloc.h */
-#define HAVE_MALLOC_H 1
+//#define HAVE_MALLOC_H 1
 
 /* define if you have memset */
 #define HAVE_MEMSET 1
@@ -42,10 +42,10 @@
 /* define if you have memcpy */
 #define HAVE_MEMCPY 1
 
-#define HAVE_SETLOCALE 1
-#define HAVE_LOCALE_H 1
-#define HAVE_LANGINFO_H 1
-#define HAVE_NL_LANGINFO_CODESET 1
+//#define HAVE_SETLOCALE 1
+//#define HAVE_LOCALE_H 1
+//#define HAVE_LANGINFO_H 1
+//#define HAVE_NL_LANGINFO_CODESET 1
 
 /* #undef HAVE_FLOATINGPOINT_H */
 /* #undef HAVE_NAN_H */
@@ -70,7 +70,7 @@
 #define HAVE_SNPRINTF 1
 
 /* define if you have sys/fcntl.h */
-#define HAVE_SYS_FCNTL_H 1
+//#define HAVE_SYS_FCNTL_H 1
 
 #define HAVE_SYS_TYPES_H 1
 #define HAVE_SYS_WAIT_H 1
